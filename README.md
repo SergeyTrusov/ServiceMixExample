@@ -1,0 +1,4 @@
+ServiceMixExample
+=================
+
+ServiceMix Example App
